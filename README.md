@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jacob
+My name is Jacob. I'm a developer who likes to make games
 
 ### 🧰 Languages and Tools
 
