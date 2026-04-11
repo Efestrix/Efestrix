@@ -1,24 +1,57 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jakub%20Strakoš&fontSize=40&fontColor=ffffff"/>
+</p>
 
-My name is Jacob. I'm a developer who likes to make games
+<h1 align="center">👋 Hi, I'm Jakub Strakoš</h1>
 
-### 🧰 Languages and Tools
+<p align="center">
+  💻 Junior .NET Developer (C#) <br>
+  🎓 IT Student (SSŠVT Prague) <br>
+  🚀 Focused on backend development
+</p>
 
-<img align="left" alt="csharp" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="python" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="html" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt=".net" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-<img align="left" alt="unrealengine" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
-<img align="left" alt="vscode" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="vs" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
-<img align="left" alt="blender" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+---
 
+## 🛠 Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,git,github,visualstudio,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🔹 Backup Client
+📦 Desktop app for file backup & versioning  
+👉 https://github.com/Efestrix/backup-client
+
+---
+
+### 🔹 ATC Simulator
+✈️ Air traffic control simulation (OOP focused)  
+👉 https://github.com/Efestrix/atc-simulator
+
+---
+
+### 🔹 Space Shooter
+🎮 2D game in Unity (in progress)  
+👉 https://github.com/Efestrix/space-shooter
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  📧 jacob.strakos@gmail.com <br>
+  🔗 https://github.com/Efestrix
+</p>
+
+---
+
+## ⚡ About Me
+
+- 🔍 Currently looking for junior .NET developer position / internship
+- 🧠 Learning: ASP.NET, backend architecture
+- 💡 Interested in clean code, performance, system design
