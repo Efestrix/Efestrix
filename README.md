@@ -25,20 +25,26 @@
 ## 🚀 Projects
 
 ### 🔹 Backup Client
+<p>
 📦 Desktop app for file backup & versioning  
 👉 https://github.com/Efestrix/backup-client
+</p>
 
 ---
 
 ### 🔹 ATC Simulator
+<p>
 ✈️ Air traffic control simulation (OOP focused)  
 👉 https://github.com/Efestrix/atc-simulator
+</p>
 
 ---
 
 ### 🔹 IT Service Manager
-🗃 Backend application for managing an IT service company<p>
-👉 https://github.com/Efestrix/ITServiceManager</p>
+<p>
+🗃 Backend application for managing an IT service company
+👉 https://github.com/Efestrix/ITServiceManager
+</p>
 
 ---
 
