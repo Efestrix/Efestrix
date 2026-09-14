@@ -37,7 +37,7 @@
 ---
 
 ### 🔹 IT Service Manager
-🗃  Backend application for managing an IT service company
+🗃 Backend application for managing an IT service company
 👉 https://github.com/Efestrix/ITServiceManager
 
 ---
