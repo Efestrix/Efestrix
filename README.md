@@ -52,24 +52,24 @@
 ---
 ## 🧠 Algorithms & Problem Solving
 I regularly practice programming problems on:
-<p>
-  LeetCode
-  Codeforces
-  CSES
-</p>
+<ul>
+  <li>LeetCode</li>
+  <li>Codeforces</li>
+  <li>CSES</li>
+</ul>
 I'm interested in understanding why an algorithm works, its time and space complexity, and how to choose an appropriate approach for a problem.
 
 ## 🎯 Current focus
 
-<p>
-  C# / .NET
-  ASP.NET Core Web API
-  Entity Framework Core
-  SQL / MySQL / SQL Server
-  REST APIs & JWT authentication
-  OOP and application architecture
-  Algorithms & data structures
-  Git / GitHub
-  Angular and frontend integration
-  Docker, Kubernetes and cloud technologies — currently learning
-</p>
+<ul>
+  <li>C# / .NET</li>
+  <li>ASP.NET Core Web API</li>
+  <li>Entity Framework Core</li>
+  <li>SQL / MySQL / SQL Server</li>
+  <li>REST APIs & JWT authentication</li>
+  <li>OOP and application architecture</li>
+  <li>Algorithms & data structures</li>
+  <li>Git / GitHub / GitLab</li>
+  <li>Angular and frontend integration</li>
+  <li>Docker, Kubernetes and cloud technologies — currently learning</li>
+</ul>
