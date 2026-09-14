@@ -5,6 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Jakub Strakoš</h1>
 
+## ⚡ About Me
 <p align="center">
   💻 Junior .NET Developer (C#) <br>
   🎓 IT Student (SSŠVT Prague) <br>
@@ -16,7 +17,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,git,github,gitlab,visualstudio,vscode,angular,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,git,github,gitlab,visualstudio,vscode,angular,docker,kubernetes,postman" />
 </p>
 
 ---
@@ -35,9 +36,9 @@
 
 ---
 
-### 🔹 Space Shooter
-🎮 2D game in Unity (in progress)  
-👉 https://github.com/Efestrix/space-shooter
+### 🔹 IT Service Manager
+🗃  Backend application for managing an IT service company
+👉 https://github.com/Efestrix/ITServiceManager
 
 ---
 
@@ -49,9 +50,26 @@
 </p>
 
 ---
+## 🧠 Algorithms & Problem Solving
+I regularly practice programming problems on:
+<p>
+  LeetCode
+  Codeforces
+  CSES
+</p>
+I'm interested in understanding why an algorithm works, its time and space complexity, and how to choose an appropriate approach for a problem.
 
-## ⚡ About Me
+## 🎯 Current focus
 
-- 🔍 Currently looking for junior .NET developer position / internship
-- 🧠 Learning: ASP.NET, backend architecture
-- 💡 Interested in clean code, performance, system design
+<p>
+  C# / .NET
+  ASP.NET Core Web API
+  Entity Framework Core
+  SQL / MySQL / SQL Server
+  REST APIs & JWT authentication
+  OOP and application architecture
+  Algorithms & data structures
+  Git / GitHub
+  Angular and frontend integration
+  Docker, Kubernetes and cloud technologies — currently learning
+</p>
