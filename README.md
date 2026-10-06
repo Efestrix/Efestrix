@@ -33,7 +33,7 @@
 
 ### 🔹 ATC Simulator
 ✈️ Air traffic control simulation (OOP focused)<p>
-👉 https://github.com/Efestrix/atc-simulator
+👉 https://github.com/Efestrix/ATC
 </p>
 
 ---
