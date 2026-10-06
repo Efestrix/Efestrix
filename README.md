@@ -26,7 +26,7 @@
 
 ### 🔹 Backup Client
 📦 Desktop app for file backup & versioning<p>
-👉 https://github.com/Efestrix/backup-client
+👉 https://github.com/Efestrix/Strakos_BackupClient
 </p>
 
 ---
